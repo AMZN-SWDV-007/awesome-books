@@ -1,4 +1,4 @@
----
+_---
 name: "Link Submission"
 description: "Suggest a new resource for our Awesome List"
 title: "[SUGGESTION] - "
